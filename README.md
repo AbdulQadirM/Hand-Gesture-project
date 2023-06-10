@@ -1,1 +1,1 @@
-# Hand-tracking-project
+# Hand-Gesture-project
